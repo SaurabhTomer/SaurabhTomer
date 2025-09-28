@@ -45,23 +45,23 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaurabhTomer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=SaurabhTomer&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhTomer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=onedark&no-frame=true&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SaurabhTomer&theme=onedark&no-frame=true&column=7" alt="Trophies"/>
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaurabhTomer&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -74,13 +74,13 @@
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-0072ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-GITHUB__USERNAME-161b22?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/SaurabhTomer"><img src="https://img.shields.io/badge/GitHub-GITHUB__USERNAME-161b22?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
 
 ## 🧭 Quick Start (How to Personalize)
-1. Replace all occurrences of `GITHUB_USERNAME` with your actual GitHub handle.
+1. Replace all occurrences of `SaurabhTomer` with your actual GitHub handle.
 2. Update portfolio, LinkedIn, and email links above.
 3. Commit as `README.md` in:
    - A normal repo for project README, or
