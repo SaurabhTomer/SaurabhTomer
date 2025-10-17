@@ -29,7 +29,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,ts,js,html,css,tailwind,bootstrap,redux,nextjs,vite,webpack,git,github,vercel,docker,nginx,postman,jest,graphql,linux&perline=12" />
+  <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,js,html,css,tailwind,redux,vite,webpack,git,github,vercel,docker,postman,jest,&perline=12" />
 </p>
 
 ---
