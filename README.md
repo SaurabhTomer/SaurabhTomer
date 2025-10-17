@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GITHUB_USERNAME"><img src="https://img.shields.io/github/followers/GITHUB_USERNAME?label=Follow&style=for-the-badge&color=0072ff" alt="Followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&style=for-the-badge&color=00c6ff" alt="Profile Views"/>
+  <a href="https://github.com/SaurabhTomer"><img src="https://img.shields.io/github/followers/SaurabhTomer?label=Follow&style=for-the-badge&color=0072ff" alt="Followers"/></a>
+  <img src="https://komarev.com/ghpvc/?username=SaurabhTomer&style=for-the-badge&color=00c6ff" alt="Profile Views"/>
 </p>
 
 ---
