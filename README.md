@@ -37,7 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
 
 ---
@@ -57,19 +56,12 @@
 <p align="center">
   <a href="mailto:tomersaurabh91@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0072ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/saurabhtomer730/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/SaurabhTomer"><img src="https://img.shields.io/badge/GitHub-GITHUB__USERNAME-161b22?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/SaurabhTomer"><img src="https://img.shields.io/badge/GitHub-SaurabhTomer-161b22?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
 
-## 🧭 Quick Start (How to Personalize)
-1. Replace all occurrences of `SaurabhTomer` with your actual GitHub handle.
-2. Update portfolio, LinkedIn, and email links above.
-3. Commit as `README.md` in:
-   - A normal repo for project README, or
-   - A special repo named `<SaurabhTomer>/<SaurabhTomer>` for a profile README.
 
-> Optional: Add the GitHub contribution snake animation (requires a GitHub Action). I can set this up on request.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=140&section=footer" />
