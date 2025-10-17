@@ -10,19 +10,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00A3FF&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+MERN+Developer;Problem+Solver+%26+DSA+Enthusiast;Clean+Code+%7C+Scalable+Systems+%7C+Ship+Fast;Open+Source+%7C+Learning+Every+Day" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/SaurabhTomer"><img src="https://img.shields.io/github/followers/SaurabhTomer?label=Follow&style=for-the-badge&color=0072ff" alt="Followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=SaurabhTomer&style=for-the-badge&color=00c6ff" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 👋 About Me
 - **Name:** Saurabh Tomer
 - **Role:** Full Stack MERN Developer
 - **Focus:** Building performant, scalable web apps with clean architecture
-- **Interests:** Problem solving, system design, open source
+- **Interests:** Problem solving, system design
 - **Current:** Polishing projects, exploring microservices and DevOps
 
 ---
@@ -35,27 +29,16 @@
 ---
 
 ## 🚀 Featured Skills Highlights
-- **MERN:** REST/GraphQL APIs, JWT auth, role-based access, state mgmt (Redux/Zustand)
-- **Frontend:** React 18, Hooks, React Router, SSR/SSG (Next.js), component libraries
+- **MERN:** REST APIs, JWT auth, role-based access, state mgmt (Redux)
+- **Frontend:** React 18, Hooks, React Router, component libraries
 - **Backend:** Node.js, Express, MongoDB (Mongoose), caching, file uploads, WebSockets
 - **Quality:** Testing (Jest/Supertest), linting/formatting, CI-ready setups
-- **Ops:** Docker, Vercel deployments, environment management, logs/metrics
+- **Ops:** Docker, Vercel deployments, environment management, 
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaurabhTomer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=SaurabhTomer&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</p>
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhTomer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaurabhTomer&theme=onedark&no-frame=true&column=7" alt="Trophies"/>
-</p>
 
 ---
 
@@ -67,7 +50,7 @@
 ---
 
 ## 🌐 Connect with Me
-- **Portfolio:** https://your-portfolio-link.com
+- **Portfolio:** https://https://portfolioo-olive.vercel.app/.com
 - **LinkedIn:** https://www.linkedin.com/in/saurabhtomer730/
 - **Email:** tomersaurabh91@gmail.com
 
@@ -84,7 +67,7 @@
 2. Update portfolio, LinkedIn, and email links above.
 3. Commit as `README.md` in:
    - A normal repo for project README, or
-   - A special repo named `<your-username>/<your-username>` for a profile README.
+   - A special repo named `<SaurabhTomer>/<SaurabhTomer>` for a profile README.
 
 > Optional: Add the GitHub contribution snake animation (requires a GitHub Action). I can set this up on request.
 
