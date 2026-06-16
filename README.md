@@ -9,9 +9,9 @@
 
 - 🎓 Pursuing **B.Tech in Computer Science** from IIMT University, Meerut
 - 💻 Building scalable, production-ready full stack applications
-- 🔧 Passionate about **Backend Engineering, System Design & DevOps**
+- 🔧 Passionate about **Backend Engineering & DevOps**
 - 🌱 Currently learning **Docker, CI/CD & AWS**
-- 📬 Open to **internships, freelance work & full-time roles**
+
 
 ---
 
