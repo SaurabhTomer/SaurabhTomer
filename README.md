@@ -9,8 +9,8 @@
 
 - 🎓 Pursuing **B.Tech in Computer Science** from IIMT University, Meerut
 - 💻 Building scalable, production-ready full stack applications
-- 🔧 Passionate about **Backend Engineering & DevOps**
-- 🌱 Currently learning **Docker, CI/CD & AWS**
+- 🔧 Passionate about **Backend Engineering, System Design & DevOps**
+
 
 
 ---
@@ -19,30 +19,27 @@
 
 **Frontend**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+</p>
 
 **Databases & Caching**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+</p>
 
 **DevOps & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,postman,git" />
+</p>
 
 ---
 
@@ -53,7 +50,7 @@
 
 - 🔌 Users can raise repair requests and get matched with nearby service providers
 - ⚡ Real-time communication using **Socket.io** & **Redis** for fast pub/sub
-- 🛠️ **Tech Stack:** MERN (MongoDB, Express, React, Node.js), Socket.io, Redis
+- 🛠️ **Tech Stack:** MERN, Socket.io, Redis
 
 ---
 
