@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saurabh Tomer</h1>
 <h3 align="center">🚀 Full Stack Developer | Backend Engineer | MERN Stack</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaurabhTomer&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 <br/>
 
