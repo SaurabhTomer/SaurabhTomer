@@ -15,7 +15,7 @@
 - 💻 Passionate about building **scalable, production-ready full stack applications**
 - 🔧 Deep interest in **Backend Engineering, System Design & DevOps**
 - 🐳 Currently mastering **Docker, CI/CD pipelines & AWS deployments**
-- ⚡ Love working with **real-time systems** — Socket.io, Redis pub/sub, live tracking
+- ⚡ Love working with **real-time systems** — Socket.io, Redis, live tracking
 - 🛠️ Always exploring new tools to ship better, faster, and cleaner code
 - 📬 Open to **internships, freelance work & full-time roles**
 
@@ -26,13 +26,13 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,cpp" />
 </p>
 
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,redux,vite" />
 </p>
 
 **Backend**
@@ -44,7 +44,7 @@
 **Databases & Caching**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
 </p>
 
 ![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neon&logoColor=black)
@@ -63,7 +63,7 @@
 > On-demand home repair service platform connecting users with electricians and technicians in real time.
 
 - 🔌 Users can raise repair requests and get matched with nearby service providers
-- ⚡ Real-time communication using **Socket.io** & **Redis** pub/sub
+- ⚡ Real-time communication using **Socket.io** & **Redis** 
 - 🛠️ **Tech Stack:** MERN, Socket.io, Redis
 
 ---
@@ -95,5 +95,5 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhtomer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhtomer730)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaurabhTomer)
