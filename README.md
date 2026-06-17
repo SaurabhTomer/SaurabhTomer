@@ -1,26 +1,38 @@
 <h1 align="center">Hi 👋, I'm Saurabh Tomer</h1>
 <h3 align="center">🚀 Full Stack Developer | Backend Engineer | MERN Stack</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaurabhTomer&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 <br/>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science** from IIMT University, Meerut
-- 💻 Building scalable, production-ready full stack applications
-- 🔧 Passionate about **Backend Engineering, System Design & DevOps**
-
-
+- 🎓 **B.Tech CSE** student at IIMT University, Meerut
+- 💻 Passionate about building **scalable, production-ready full stack applications**
+- 🔧 Deep interest in **Backend Engineering, System Design & DevOps**
+- 🐳 Currently mastering **Docker, CI/CD pipelines & AWS deployments**
+- ⚡ Love working with **real-time systems** — Socket.io, Redis pub/sub, live tracking
+- 🛠️ Always exploring new tools to ship better, faster, and cleaner code
+- 📬 Open to **internships, freelance work & full-time roles**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
+</p>
 
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux,vite" />
 </p>
 
 **Backend**
@@ -32,13 +44,15 @@
 **Databases & Caching**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql" />
 </p>
 
-**DevOps & Tools**
+![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neon&logoColor=black)
+
+**DevOps & Infrastructure**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,postman,git" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,github,git,postman" />
 </p>
 
 ---
@@ -49,7 +63,7 @@
 > On-demand home repair service platform connecting users with electricians and technicians in real time.
 
 - 🔌 Users can raise repair requests and get matched with nearby service providers
-- ⚡ Real-time communication using **Socket.io** & **Redis** for fast pub/sub
+- ⚡ Real-time communication using **Socket.io** & **Redis** pub/sub
 - 🛠️ **Tech Stack:** MERN, Socket.io, Redis
 
 ---
@@ -73,9 +87,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhTomer&theme=tokyonight" alt="Saurabh's Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhTomer&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhtomer730)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhtomer)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaurabhTomer)
